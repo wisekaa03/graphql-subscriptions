@@ -1,6 +1,6 @@
 {
-  "name": "graphql-subscriptions",
-  "version": "1.1.0",
+  "name": "graphql-subscriptions-2",
+  "version": "1.1.1",
   "description": "GraphQL subscriptions for node.js",
   "main": "dist/index.js",
   "repository": {
@@ -29,22 +29,21 @@
   },
   "devDependencies": {
     "@types/chai-as-promised": "^7.1.3",
-    "@types/graphql": "^14.5.0",
-    "@types/mocha": "^8.0.0",
-    "@types/node": "^14.0.23",
-    "@types/sinon": "9.0.4",
-    "@types/sinon-chai": "^3.2.4",
+    "@types/mocha": "^8.2.0",
+    "@types/node": "^14.14.21",
+    "@types/sinon": "9.0.10",
+    "@types/sinon-chai": "^3.2.5",
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
-    "graphql": "^14.0.0",
+    "graphql": "^15.4.0",
     "istanbul": "^1.0.0-alpha.2",
-    "mocha": "^8.0.1",
+    "mocha": "^8.2.1",
     "remap-istanbul": "^0.13.0",
     "rimraf": "^3.0.2",
-    "sinon": "^9.0.2",
+    "sinon": "^9.2.3",
     "sinon-chai": "^3.5.0",
-    "tslint": "^6.1.2",
-    "typescript": "^3.9.6"
+    "tslint": "^6.1.3",
+    "typescript": "^4.1.3"
   },
   "typings": "dist/index.d.ts",
   "typescript": {
